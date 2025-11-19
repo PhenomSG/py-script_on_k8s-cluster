@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: odd-even-pod
+spec:
+  containers:
+    - name: odd-even-container
+      image: phenomsg/sg_app
+      
