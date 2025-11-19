@@ -5,5 +5,5 @@ metadata:
 spec:
   containers:
     - name: odd-even-container
-      image: phenomsg/sg_app
+      image: phenomsg/sg_app:latest
       
